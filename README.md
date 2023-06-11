@@ -1,10 +1,10 @@
 # Stable Diffusion Colab - Mobile Version 
 
-+
- • Interface WEBUI Ringan.
- • Simple
- • Anti Diconnect.
++<br>
+ • Interface WEBUI Ringan.<br>
+ • Simple<br>
+ • Anti Diconnect.<br>
 
--
- • Fitur Kurang Update
+-<br>
+ • Fitur Kurang Update<br>
  • Belum Bisa Pasang LoRA/Lycoris
